@@ -1,0 +1,98 @@
+tzvog 
+
+
+================
+File Description
+================
+ClosedHashSet.java - a class of a closed hash set
+CollectionFacadeSet.java - a facade class to to hold collections with function to turn it into a set
+OpenHashingLink.java - a file that holds a wrapper class link for the open hash links
+OpenHashSet.java - a class of a closed hash set
+SimpleHashSet.java - an abstract class for hash sets to implements
+SimpleSetPerformanceAnalyzer.java - a class function to hold the analyzer of running times of our program
+
+=============================
+=          Design           =
+=============================
+
+ClosedHashSet -
+    the advantage of it over Open Hashset is that i dont need to hold Objects and only need to
+    hold the Strings themselves.
+
+CollectionFacadeSet -
+    i created in a way to use the functionality of collection while making sure that is a set
+
+OpenHashingLink -
+    is our way of holding a linked list to use it for the open hashing
+
+OpenHashSet -
+    the advantage of it over a closed hash set is that if two objects collied with the same hash a new calcualtion does
+    not need to be done since its gonna be in that location somewhere on a list
+
+SimpleHashSet -
+    just keeps implements basic things that are in common for every type of hash set
+
+SimpleSetPerformanceAnalyzer -
+    analizes the functions based on command line arguments
+
+=============================
+=  Implementation details   =
+=============================
+
+ClosedHashSet -
+    a closed hash set the implements the SimpleHashSet
+    when dealing with the closed hash set we have the issue of deleting since if we delete
+    there is a chance a different value will not be found afterwards since it might have had the same hash
+    therefore i implemented a string that will indicate that the location was deleted and anytime i delete
+    i will put that string there and when checking for a value one of my test is am i checking the
+    reference of that string making sure that i can put a new value there while at the same time indicating
+    that the value you are looking for might still be in the somewhere in the set
+
+CollectionFacadeSet -
+    it takes advantage of the fact that all objects in it are of type collection
+    therefore it can take advantage of collections functions only changing some of them
+    to keep it a set
+
+OpenHashingLink -
+    it stores a link list and a CollectionFacadeSet where the CollectionFacadeSet gets the
+    linked list as its parameter.
+    i did not want to extend this as part of CollectionFacadeSet due to the fact that
+    every time that i needed to resize i would need to initialize new linked lists in addition to
+    initializing an array of OpenHashingLinks therefore i created a class that hold an object with a
+    linked list already initialized and uses the advantage the facade gives us to reuse code
+
+OpenHashSet -
+    the OpenHashSet implements the SimpleHashSet
+    i Stored all the elements in an array of OpenHashingLink therefore when addition
+    was needed to get done it was added to one of the lists held by each OpenHashingLink
+
+SimpleHashSet -
+    the OpenHashSet implements the SimpleSet
+    only sets basic things used in both of the hashsets like clamp and calculates in the load factor
+    will be to much or to little with addition and subtraction
+
+SimpleSetPerformanceAnalyzer -
+    the class reads command line arguments and runs the aproriate test based on the input
+
+=============================
+=    Answers to questions   =
+=============================
+
+the analysis in depth -
+OpenHashSet and ClosedHashSets bad result time for for data one test had to deal with the fact that all the elements
+were needed to be put in the same place. for open hash that meant that every time i needed to add i needed to check the
+whole linked list every single time in that hashings location and only then return that its not there costing almost
+O(n) as for closed hash we would have to keep jumping from location to the next to check if it was free which can also
+almost be O(n)
+Strengths and weaknesses of each hash -
+we see a dramatic drop when it comes to uniformliy distributed hashes when using closed and open hash due to the fact
+that collision will have less of an effect so finding new locations and adding new stuff to new locations takes less
+time by the results your beter off using ClosedHashSet for even and non even distribution but in theory if its
+distributed better then open would be better (since you would not need so much time to find the new location)
+two implementations compare between themselves? - my closed hash ended up beeing faster then open for putting stuff
+into the set but when it came down to actually finding stuff open worked on the faster side
+How did your implementations compare to Java’s built in HashSet? - java did a lot better of a job
+on distributed i was close but not when hash values are close
+Did you find java’s HashSet performance on data1.txt surprising - i did i was wondering how they where able to do
+it so fast givven the fact that objects with the same hash were simmilar i suspect that it uses some of the tricks
+that we learned it DAST

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f867daa-33c0-4299-9f45-14f2670444aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex4/README" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex4/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex4/RESULTS" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex4/RESULTS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex4/SimpleSetPerformanceAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex4/SimpleSetPerformanceAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ex4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClosedHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2346">
+              <caret line="140" selection-start-line="140" selection-end-line="140" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OpenHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="77" column="37" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SingletonString.java" />
+        <option value="$PROJECT_DIR$/src/mas.java" />
+        <option value="$PROJECT_DIR$/src/SimpleSetPerformanceAnalyzerTali.java" />
+        <option value="$PROJECT_DIR$/src/SimpleSetPerformanceAnalyzertalitwo.java" />
+        <option value="$PROJECT_DIR$/src/Tester_OOP_EX3.java" />
+        <option value="$PROJECT_DIR$/src/SimpleHashSet.java" />
+        <option value="$PROJECT_DIR$/src/OpenHashingLink.java" />
+        <option value="$PROJECT_DIR$/src/CollectionFacadeSet.java" />
+        <option value="$PROJECT_DIR$/src/ClosedHashSet.java" />
+        <option value="$PROJECT_DIR$/src/OpenHashSet.java" />
+        <option value="$PROJECT_DIR$/src/README" />
+        <option value="$PROJECT_DIR$/src/RESULTS" />
+        <option value="$PROJECT_DIR$/src/SimpleSetPerformanceAnalyzer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-132" />
+    <option name="y" value="-18" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ex4-tzvog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex4-tzvog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ex4-tzvog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex4-tzvog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557983746412" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\t-dog\IdeaProjects\ex4\src" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\t-dog\IdeaProjects\ex4\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SimpleSetPerformanceAnalyzer">
+    <configuration name="SimpleSetPerformanceAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleSetPerformanceAnalyzer" />
+      <module name="ex4" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testOpen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testOpen" />
+      <module name="ex4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatanTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatanTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester_OOP_EX3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tester_OOP_EX3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester_OOP_EX3.openHashSet_1_sanity_check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tester_OOP_EX3" />
+      <option name="METHOD_NAME" value="openHashSet_1_sanity_check" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimpleSetPerformanceAnalyzer" />
+      <item itemvalue="Application.testOpen" />
+      <item itemvalue="JUnit.Tester_OOP_EX3" />
+      <item itemvalue="JUnit.Tester_OOP_EX3.openHashSet_1_sanity_check" />
+      <item itemvalue="JUnit.MatanTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleSetPerformanceAnalyzer" />
+        <item itemvalue="Application.testOpen" />
+        <item itemvalue="JUnit.MatanTests" />
+        <item itemvalue="JUnit.Tester_OOP_EX3" />
+        <item itemvalue="JUnit.Tester_OOP_EX3.openHashSet_1_sanity_check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f867daa-33c0-4299-9f45-14f2670444aa" name="Default Changelist" comment="" />
+      <created>1556815674509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556815674509</updated>
+      <workItem from="1556815677282" duration="152000" />
+      <workItem from="1556833811507" duration="738000" />
+      <workItem from="1556861859474" duration="585000" />
+      <workItem from="1556862753845" duration="25200000" />
+      <workItem from="1557079276264" duration="23730000" />
+      <workItem from="1557166063114" duration="13983000" />
+      <workItem from="1557422440827" duration="21020000" />
+      <workItem from="1557594940464" duration="6930000" />
+      <workItem from="1557604419883" duration="815000" />
+      <workItem from="1557662685011" duration="766000" />
+      <workItem from="1557667870348" duration="131000" />
+      <workItem from="1557668402032" duration="770000" />
+      <workItem from="1557669568295" duration="2969000" />
+      <workItem from="1557677124937" duration="6821000" />
+      <workItem from="1557725751467" duration="2271000" />
+      <workItem from="1557750183633" duration="1519000" />
+      <workItem from="1557770513465" duration="914000" />
+      <workItem from="1557771638172" duration="9344000" />
+      <workItem from="1557851433619" duration="8977000" />
+      <workItem from="1557869534459" duration="3841000" />
+      <workItem from="1557912532647" duration="3504000" />
+      <workItem from="1557950106236" duration="1083000" />
+      <workItem from="1557981407462" duration="2339000" />
+      <workItem from="1557999741995" duration="55000" />
+      <workItem from="1558004466337" duration="3554000" />
+      <workItem from="1558010331242" duration="1531000" />
+      <workItem from="1558201644894" duration="29000" />
+      <workItem from="1561560241167" duration="40000" />
+      <workItem from="1568548173522" duration="665000" />
+      <workItem from="1570091609552" duration="39000" />
+    </task>
+    <task id="LOCAL-00001" summary="tested some of the closed hash">
+      <created>1557490419288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557490419288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tester_OOP_EX3_openHashSet_1_sanity_check - 2019.05.15 at 00h 44m 26s.xml">
+      <configuration name="Tester_OOP_EX3.openHashSet_1_sanity_check" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3_openHashSet_1_sanity_check - 2019.05.15 at 00h 44m 43s.xml">
+      <configuration name="Tester_OOP_EX3.openHashSet_1_sanity_check" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3_openHashSet_1_sanity_check - 2019.05.15 at 00h 44m 57s.xml">
+      <configuration name="Tester_OOP_EX3.openHashSet_1_sanity_check" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3_openHashSet_1_sanity_check - 2019.05.15 at 00h 45m 16s.xml">
+      <configuration name="Tester_OOP_EX3.openHashSet_1_sanity_check" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3_openHashSet_1_sanity_check - 2019.05.15 at 00h 48m 36s.xml">
+      <configuration name="Tester_OOP_EX3.openHashSet_1_sanity_check" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3_openHashSet_1_sanity_check - 2019.05.15 at 00h 49m 01s.xml">
+      <configuration name="Tester_OOP_EX3.openHashSet_1_sanity_check" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3 - 2019.05.15 at 00h 50m 05s.xml">
+      <configuration name="Tester_OOP_EX3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3 - 2019.05.15 at 01h 01m 01s.xml">
+      <configuration name="Tester_OOP_EX3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tester_OOP_EX3 - 2019.05.15 at 01h 04m 13s.xml">
+      <configuration name="Tester_OOP_EX3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatanTests - 2019.05.15 at 09h 22m 05s.xml">
+      <configuration name="MatanTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="144730000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.24210526" />
+      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.28421053" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008881" side_tool="true" weight="0.28421053" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5144124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3428064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32815966" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.21459459" />
+      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.28421053" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008881" side_tool="true" weight="0.28421053" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42793792" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3428064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32815966" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tested some of the closed hash" />
+    <option name="LAST_COMMIT_MESSAGE" value="tested some of the closed hash" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="hashSet.capacity()" language="JAVA" />
+        <watch expression="(double) hashSet.capacity()/ hashSet.capacity()" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="args" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i == 488</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 487</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 486</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 11</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 12</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 13</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 100</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 400</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 500</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>(double) hashSet.capacity()/ hashSet.capacity()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hashSet.capacity()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>args</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(double)hashSet.size() / hashSet.capacity()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(double) (hashSet.size() / hashSet.capacity())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hashSet.size() / hashSet.capacity()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hashSet.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myHashSet.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>classicSet.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.findWordsLocation(toDelete)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SimpleHashSet.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/LinkedList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Collection.java" />
+    <entry file="file://$PROJECT_DIR$/src/SingletonString.java" />
+    <entry file="jar://$PROJECT_DIR$/ex3_resources.jar!/org/junit/Assert.class" />
+    <entry file="file://$PROJECT_DIR$/src/mas.java" />
+    <entry file="jar://$PROJECT_DIR$/ex3_resources.jar!/org/junit/runners/ParentRunner.class" />
+    <entry file="jar://$PROJECT_DIR$/ex3_resources.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+    <entry file="file://$PROJECT_DIR$/src/data2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleSetPerformanceAnalyzerTali.java" />
+    <entry file="file://$PROJECT_DIR$/src/SimpleSetPerformanceAnalyzertalitwo.java" />
+    <entry file="jar://$PROJECT_DIR$/src/ex3_resources.jar!/org/junit/Assert.class" />
+    <entry file="jar://$PROJECT_DIR$/src/ex3_resources.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatanTests(1).java" />
+    <entry file="file://$PROJECT_DIR$/src/testOpen.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tester_OOP_EX3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ex4Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatanTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/RESULTS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenHashingLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/README" />
+    <entry file="file://$PROJECT_DIR$/src/CollectionFacadeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleSetPerformanceAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClosedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="77" column="37" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ex4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ex3_resources</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
